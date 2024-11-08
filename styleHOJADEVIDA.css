@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(rgb(69, 93, 58), rgb(243, 243, 243), rgb(114, 23, 23));
+    color: black;
+    height: 100vh;
+}
+h1{
+    color: rgb(114, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgb(102, 53, 53) 10px 5px 10px;
+      
+    text-align: center; 
+    font-size: 50px;;
+}
+h2{
+    color: rgb(     16, 36, 15);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgb(16, 52, 14) 0 0 5px;   
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+a{
+    color: rgb(213, 20, 20);
+}
+
+tr{
+    border: 2px;
+    border-color: rgb(27, 103, 36);
+}
+
+table{
+    text-align: center;
+    border-color: rgb(57, 97, 31);
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse:collapse;
+    width: 100%;
+    font-size:30px;
+}
+
+hr{
+    color:rgb(27, 103, 36) ;
+}
